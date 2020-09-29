@@ -13,7 +13,7 @@ em {
   border-top: 5px solid orange;
 }
 h1{
-  text-align: left;
+  text-align: right;
 }
 .text {
   text-align: left;
@@ -23,7 +23,7 @@ li {
   color: white;
 }
 .link {
-  color: red;
+  color: yellow;
 }
 .description {
   color: olivedrab;
